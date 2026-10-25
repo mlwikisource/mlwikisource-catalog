@@ -28,5 +28,4 @@ Extracted from the Wikidata Query Service using a SPARQL query over a list of 58
 Wikidata structured data is released under CC0 1.0, and this dataset is likewise released under **CC0 1.0 Universal**. The books themselves are not included, only metadata and links.
 
 ## Citation
-Malayalam Wikisource Community (2026). *Malayalam Wikisource Catalog* (v1.0) [Data set]. 10.5281/zenodo.23649122
-.
+Karingamadathil, M., & Parampatt, J. (2026). Malayalam Wikisource Catalog [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23649122.
